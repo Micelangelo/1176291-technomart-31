@@ -1,7 +1,11 @@
 # Личный проект «Техномарт»
 
 * Студент: [Николай Смакула](https://up.htmlacademy.ru/htmlcss/31/user/1176291).
+<<<<<<< HEAD
 * Наставник:[Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+=======
+* Наставник: Виктор Рыбаков.https://htmlacademy.ru/profile/viktor-rybakov
+>>>>>>> master
 
 ---
 
