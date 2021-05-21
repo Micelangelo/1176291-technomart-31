@@ -4,7 +4,7 @@
 <<<<<<< HEAD
 * Наставник:[Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 =======
-* Наставник: Виктор Рыбаков.https://htmlacademy.ru/profile/viktor-rybakov
+* Наставник:[Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 >>>>>>> master
 
 ---
